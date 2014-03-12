@@ -3,7 +3,7 @@ sublime-plain
 
 For those who don't want syntax highlighting. ;-)
 
-If you are thinking that you can just set syntax to 'Plain Text' smack yourself about the face ... then realize, that this does not work with fuzzy search, the end.
+If you are thinking that you can just set syntax to 'Plain Text', smack yourself about the face ... then realize, that this does not work with fuzzy search, the end.
 
 
 To install on Linux:
