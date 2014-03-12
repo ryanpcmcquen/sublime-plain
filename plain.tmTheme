@@ -26,13 +26,13 @@ Find this theme at : https://github.com/ryanpcmcquen/sublime-plain
         <key>caret</key>
         <string>#ffffff</string>
         <key>foreground</key>
-        <string>#333333</string>
+        <string>#eeeeee</string>
         <key>invisibles</key>
         <string>#aaaaaa</string>
         <key>lineHighlight</key>
         <string>#dddddd</string>
         <key>selection</key>
-        <string>#bbbbbb</string>
+        <string>#555555</string>
         <key>findHighlight</key>
         <string>#111111</string>
         <key>findHighlightForeground</key>
@@ -417,6 +417,6 @@ Find this theme at : https://github.com/ryanpcmcquen/sublime-plain
 
   </array>
   <key>uuid</key>
-  <string>D8D5E82E-3D5B-46B5-B38E-8C841C21347D</string>
+  <string>F6A0DC65-AF28-47BE-9BBD-BE846DB0D812</string>
 </dict>
 </plist>
