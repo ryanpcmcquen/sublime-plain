@@ -30,7 +30,7 @@ Find this theme at : https://github.com/ryanpcmcquen/sublime-plain
         <key>invisibles</key>
         <string>#aaaaaa</string>
         <key>lineHighlight</key>
-        <string>#dddddd</string>
+        <string>#aaaaaa</string>
         <key>selection</key>
         <string>#555555</string>
         <key>findHighlight</key>
