@@ -13,3 +13,10 @@ To install on Linux:
 To install on Mac OS X:
 
     wget -N https://raw.github.com/ryanpcmcquen/sublime-plain/master/plain.tmTheme -P ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/
+
+
+Then add this line to your Preferences.sublime-settings:
+
+    "color_scheme": "Packages/User/plain.tmTheme"
+
+Don't forget to use a comma if it is not the last line.
