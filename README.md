@@ -8,11 +8,11 @@ If you are thinking that you can just set syntax to 'Plain Text', smack yourself
 
 To install on Linux:
 
-    wget -N https://raw.github.com/ryanpcmcquen/sublime-plain/master/plain.tmTheme -P ~/.config/sublime-text-3/Packages/User/
+    wget -N https://raw2.github.com/ryanpcmcquen/sublime-plain/master/plain.tmTheme -P ~/.config/sublime-text-3/Packages/User/
 
 To install on Mac OS X:
 
-    wget -N https://raw.github.com/ryanpcmcquen/sublime-plain/master/plain.tmTheme -P ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/
+    wget -N https://raw2.github.com/ryanpcmcquen/sublime-plain/master/plain.tmTheme -P ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/
 
 
 Then add this line to your Preferences.sublime-settings:
